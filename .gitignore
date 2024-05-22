@@ -1,6 +1,10 @@
 *.o
 *.a
+*.swp
 /doc/doxygen/output/html
+
+/build
+
 /src/apps/snmp/LwipMibCompiler/CCodeGeneration/bin/
 /src/apps/snmp/LwipMibCompiler/CCodeGeneration/obj/
 /src/apps/snmp/LwipMibCompiler/LwipMibCompiler/bin/
